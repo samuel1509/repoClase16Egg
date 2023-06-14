@@ -6,4 +6,6 @@ estoy aprendiendo pull request en rama1
 
 haciendo un nuevo pull request desde rama1
 
-agregando mas lineas desde github
+masl pull request desde github
+
+
